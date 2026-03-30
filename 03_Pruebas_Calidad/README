@@ -1,0 +1,9 @@
+# Pruebas de Calidad de Datos
+
+Esta carpeta contiene consultas SQL para validar la calidad de los datos.
+
+Incluye:
+- Validación de valores nulos
+- Detección de duplicados
+- Identificación de valores negativos
+- Verificación de integridad referencial
